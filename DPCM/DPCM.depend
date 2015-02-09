@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1416072197 source:c:\users\sladjan\desktop\pg\dpcm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"huffman.h"
+
+1416071768 source:c:\users\sladjan\desktop\pg\dpcm\huffman.c
+
+1416059426 c:\users\sladjan\desktop\pg\dpcm\huffman.h
+

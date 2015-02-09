@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1416073081 source:c:\users\sladjan\desktop\pg\a-law\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

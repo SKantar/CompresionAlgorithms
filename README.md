@@ -11,9 +11,16 @@ Comparision of standard companding algorithms
 
 ## Measurements
 ### A-Law 
-![alt tag](a-law.png)
+<p align="center">
+  <a name="top" href="#"><img src="a-law.png"></a>
+</p>
 
 ### DPCM 
-![alt tag](DPCM.png)
+<p align="center">
+  <a name="top" href="#"><img src="DPCM.png"></a>
+</p>
 
 ## Results
+<p align="center">
+  <a name="top" href="#"><img src="results.png"></a>
+</p>

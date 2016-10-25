@@ -11,3 +11,4 @@ Comparision of standard companding algorithms
 
 ## Measurements
 
+![alt tag](a-law.png)

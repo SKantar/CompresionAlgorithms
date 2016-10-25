@@ -8,3 +8,6 @@ Comparision of standard companding algorithms
 * Recorder 20 wav files (https://en.wikipedia.org/wiki/WAV)
 * Compression of each file ( with both algorithms, new files stored with algo extensions)
 * Decompression of each compressed file
+
+## Measurements
+

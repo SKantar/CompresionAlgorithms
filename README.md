@@ -10,5 +10,9 @@ Comparision of standard companding algorithms
 * Decompression of each compressed file
 
 ## Measurements
-
+** a-law **
 ![alt tag](a-law.png)
+** DPCM **
+![alt tag](DPCM.png)
+
+## Results
